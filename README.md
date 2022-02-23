@@ -1,4 +1,4 @@
-# Rubal_Portfolio
+# Rubal Khuttan_Portfolio
 * Computer system technician with updated education in network design, escalation support, network administration, and systems administration
 * Skilled in delivering technical support, managing network operations, and maintaining enterprise-wide area networks across multi-platform.
 * Click Here for my LinkedIn Profile (https://www.linkedin.com/in/rubal-khuttan-5040431a7/)
