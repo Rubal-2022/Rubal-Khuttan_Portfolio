@@ -14,20 +14,6 @@ li:hover{
 
 }
 
-.nav navbar-nav{
-   
-    padding: 80px 40px 970px 10px ; /* top right bottom left*/
-    width: 70%;
-    display: inline-block;
-    line-height: 24px;
-    vertical-align: middle;
-    font-size: 25px;
-    font-weight: 600;
-    font-family: "Comic Sans MS", sans-serif;
-  
-
-}
-
 .container-fluid ul{
     list-style: none ;  
 }
