@@ -2,6 +2,7 @@ html{
     background-color: rgb(26, 24, 24);
     margin: 5px;
     padding: 10px ;
+    scroll-behavior: smooth;
 }
 
 body {font-family: "New Times Roman", sans-serif;
@@ -58,11 +59,55 @@ h3 {
 
   }
 
-nav a {
+.nav a {
     color: black;
     text-decoration: none;
   }
 
-a:hover {
+.nav a:hover {
     color: red;
+  }
+
+.icon-bar {
+    -webkit-transform: translateX();
+    -ms-transform: translateX();
+    transform: translateX();
+    position: absolute;
+    
+  }
+  
+.icon-bar a {
+    text-align: center;
+    display: column;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    padding: 10px;
+    border-radius: 0.5rem;
+    margin: 35px;
+    font-size: 35px;
+  }
+
+.icon-bar a:hover {
+    background-color: #000;
+}
+
+.linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+.email {
+    background: white;
+    color: rgb(168, 100, 40);
+  }
+
+.facebook {
+    background: #007bb5;
+    color: white;
+}
+
+.github {
+    background: black;
+    color: white;
   }
